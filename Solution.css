@@ -8,3 +8,13 @@
     font-size: large;
     background-color: antiquewhite;
 }
+
+.main .list{
+    color: blue;
+}
+#section{
+    color: brown;
+}
+#break{
+    background-color: rgb(33, 186, 186);
+}
